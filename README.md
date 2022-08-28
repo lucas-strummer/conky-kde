@@ -4,7 +4,7 @@
 
 # ANTES DE INSTALAR:
 
--. Necesitás tener instaladas las fuentes Roboto y el programa lm-sensors
+-. Necesitás tener instaladas las fuentes Roboto, GE Inspira y el programa lm-sensors
 
 -. Adjunto un archivo de configuración de muestra (explicacion.conkyrc) donde detallo en qué parte está cada configuración.
 
