@@ -1,4 +1,5 @@
-## Configuracion de conky para KDE (no lo probé en otros entornos de escritorio pero puede andar)
+# Configuracion de conky para KDE 
+(No lo probé en otros entornos de escritorio pero puede andar)
 ### Esta es mi primer contribución así que paciencia :)
 
 # ANTES DE INSTALAR:
@@ -11,7 +12,9 @@
 
  -. Instalar conky
  
- -. Copiar los archivos de configuración en tu directorio ~/.conky
+ -. Clonar el repositorio: (git clone https://github.com/lucas-strummer/conky-kde)
+ 
+ -. Copiar los archivos de configuración en tu home (/home/user/.conky)
  
  -. Recomiendo primeramente iniciar el script conky-startup.sh para ver qué secciones funcionan y cuales no.
  
