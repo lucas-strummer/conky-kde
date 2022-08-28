@@ -31,7 +31,7 @@
 # Removed Extra symbols and incorrect formatting
 #======================================================================================
 #Modificación por lucas_strummer
-#Usa la fuente Roboto (fijate de tenerla instalada)
+#Usa las fuentes Roboto y GE Inspira (fijate de tenerlas instaladas)
 #También es necesario tener instalado lm-sensors para ver la temperatura de la cpu
 #Recomiendo leer los comentarios detenidamente por si algo no funciona
 #De todas formas los problemas que puedas llegar a tener suelen ser por diferencias entre los nombres de las unidades o dispositivos propios
