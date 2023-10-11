@@ -164,11 +164,11 @@ ${offset 30}${color2}Raíz:${color} ${alignr}${offset -10}${fs_used /} / ${fs_si
 ${offset 30}${color2}I/O Read:${color} ${alignr}${offset -10}${diskio_read /dev/sdb4}${alignr}${diskiograph_read sdb4 8,100}
 ${offset 30}${color2}I/O Write:${color} ${alignr}${offset -10}${diskio_write /dev/sdb4}${alignr}${diskiograph_write sdb4 8,100}
 
-${offset 30}${color2}/home/lucas :${color} ${alignr}${offset -10}${fs_used /home/lucas} / ${fs_size /home/lucas}${alignr}${fs_bar /home/lucas}
+${offset 30}${color2}/home/ :${color} ${alignr}${offset -10}${fs_used /home} / ${fs_size /home}${alignr}${fs_bar /home}
 ${offset 30}${color2}I/O Read:${color} ${alignr}${offset -10}${diskio_read /dev/sdb3}${alignr}${diskiograph_read sdb3 8,100}
 ${offset 30}${color2}I/O Write:${color} ${alignr}${offset -10}${diskio_write /dev/sdb3}${alignr}${diskiograph_write sdb3 8,100}
 
-${offset 30}${color2}Storage :${color} ${alignr}${offset -10}${fs_used /media/lucas} / ${fs_size /media/lucas}${alignr}${fs_bar /media/lucas}
+${offset 30}${color2}Storage :${color} ${alignr}${offset -10}${fs_used /media/} / ${fs_size /media/}${alignr}${fs_bar /media/}
 ${offset 30}${color2}I/O Read:${color} ${alignr}${offset -10}${diskio_read /dev/sdc2}${alignr}${diskiograph_read sda5 8,100}
 ${offset 30}${color2}I/O Write:${color} ${alignr}${offset -10}${diskio_write /dev/sdc2}${alignr}${diskiograph_write sdc2 8,100}
 ${color5}${color5}${font Roboto:size=10}R E D   ${hr 2}${font}${color}

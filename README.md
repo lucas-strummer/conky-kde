@@ -17,8 +17,6 @@
 
 ``` git clone https://github.com/lucas-strummer/conky-kde -c ~ ```
  
- -. Copiar los archivos de configuración en tu home (~/.conky)
- 
  -. Recomiendo primeramente iniciar el script conky-startup.sh para ver qué secciones funcionan y cuales no.
  
  -. Tambien recomiendo hacer un backup del archivo de configuración antes de empezar a modificarlo porque se rompe fácil y después no funciona.
