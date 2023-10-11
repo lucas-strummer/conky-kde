@@ -1,6 +1,6 @@
 #!/bin/sh
 
 killall conky
-sleep 10 && cd "$HOME/.conky"
-conky -c "$HOME/.conky/strummer.conkyrc" &
+sleep 10 
+conky -c "$HOME/.conky/default.conkyrc" &
 exit 0

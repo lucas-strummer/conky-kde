@@ -12,9 +12,12 @@
 
  -. Instalar conky
  
- -. Clonar el repositorio: (git clone https://github.com/lucas-strummer/conky-kde)
+ -. Clonar el repositorio: 
+
+
+``` git clone https://github.com/lucas-strummer/conky-kde -c ~ ```
  
- -. Copiar los archivos de configuración en tu home (/home/user/.conky)
+ -. Copiar los archivos de configuración en tu home (~/.conky)
  
  -. Recomiendo primeramente iniciar el script conky-startup.sh para ver qué secciones funcionan y cuales no.
  
