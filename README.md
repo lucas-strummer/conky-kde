@@ -15,7 +15,7 @@
  -. Clonar el repositorio: 
 
 
-``` git clone https://github.com/lucas-strummer/conky-kde -c ~ ```
+``` git clone https://github.com/lucas-strummer/conky-kde ```
  
  -. Copiar la carpeta .conky en la raíz de tu home ( ~/.conky) .
  
